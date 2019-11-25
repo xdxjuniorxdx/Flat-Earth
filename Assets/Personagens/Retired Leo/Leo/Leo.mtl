@@ -1,0 +1,86 @@
+# Exported from Fuse 1.3.0
+
+newmtl Shoes
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+map_Kd Leo_Shoes_diffuse.png
+map_Ks Leo_Shoes_specular.png
+bump Leo_Shoes_normal.png
+map_Ns Leo_Shoes_gloss.png
+
+newmtl Bottom
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+map_Kd Leo_Bottom_diffuse.png
+map_Ks Leo_Bottom_specular.png
+bump Leo_Bottom_normal.png
+map_Ns Leo_Bottom_gloss.png
+
+newmtl Beard
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+map_Kd Leo_Beard_diffuse.png
+map_Ks Leo_Beard_specular.png
+bump Leo_Beard_normal.png
+map_Ns Leo_Beard_gloss.png
+
+newmtl Moustache
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+map_Kd Leo_Moustache_diffuse.png
+map_Ks Leo_Moustache_specular.png
+bump Leo_Moustache_normal.png
+map_Ns Leo_Moustache_gloss.png
+
+newmtl Body
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+map_Kd Leo_Body_diffuse.png
+map_Ks Leo_Body_specular.png
+bump Leo_Body_normal.png
+map_Ns Leo_Body_gloss.png
+
+newmtl Top
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+map_Kd Leo_Top_diffuse.png
+map_Ks Leo_Top_specular.png
+bump Leo_Top_normal.png
+map_Ns Leo_Top_gloss.png
+
+newmtl Hat
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+map_Kd Leo_Hat_diffuse.png
+map_Ks Leo_Hat_specular.png
+bump Leo_Hat_normal.png
+map_Ns Leo_Hat_gloss.png
+
